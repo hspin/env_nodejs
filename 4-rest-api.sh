@@ -5,6 +5,7 @@ standard=( \
 	"sails" \
 	"dyson" \
 	"json-server" \
+	"browser-sync" \
     )
 
 TOTAL=${#standard[@]} 
