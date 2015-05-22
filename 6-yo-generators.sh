@@ -2,10 +2,16 @@
 
 # GENERAL
 standard=( \
-	"generator-" \
-	"generator-" \
-	"generator-" \
-	"generator-" \
+	"generator-backbone" \
+	"generator-ionic" \
+	"generator-bootstrap" \
+	"generator-mobile" \
+	"generator-browserify" \
+	"generator-pure" \
+	"generator-meanstack" \
+	"generator-modern-frontend" \
+	"generator-sails-rest-api" \
+	"generator-jade" \
     )
 
 TOTAL=${#standard[@]} 
